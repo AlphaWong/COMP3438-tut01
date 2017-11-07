@@ -1,3 +1,9 @@
+# Profile
+```
+Student name: WONG CHUN KIU
+Student id: 14112109d
+```
+
 # Question 1
 ## Code
 ```c
